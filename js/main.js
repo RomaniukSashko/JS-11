@@ -50,7 +50,7 @@ const bankAccount = {
 };
 
 // ПОПОВНИТИ РАХУНОК
-bankAccount.deposit();
+// bankAccount.deposit();
 
 // ЗНЯТИ ГРОШІ З РАХУНКУ
 bankAccount.withdraw();
